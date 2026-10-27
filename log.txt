@@ -1,0 +1,30 @@
+=== НАЧАЛО РАБОТЫ ===
+[SENDER] Отправлено: How are you?
+[LOGGER] Очередь содержит сообщения
+[RECEIVER] Получено: How are you?
+[SENDER] Отправлено: Meeting at 5pm
+[LOGGER] Очередь содержит сообщения
+[RECEIVER] Получено: Meeting at 5pm
+[SENDER] Отправлено: How are you?
+[LOGGER] Очередь содержит сообщения
+[RECEIVER] Получено: How are you?
+[SENDER] Отправлено: Meeting at 5pm
+[RECEIVER] Получено: Meeting at 5pm
+[SENDER] Отправлено: Meeting at 5pm
+[LOGGER] Очередь содержит сообщения
+[SENDER] Отправлено: Don't forget the report
+[RECEIVER] Получено: Meeting at 5pm
+[LOGGER] Очередь содержит сообщения
+[RECEIVER] Получено: Don't forget the report
+[SENDER] Отправлено: How are you?
+[RECEIVER] Получено: How are you?
+[SENDER] Отправлено: Meeting at 5pm
+[RECEIVER] Получено: Meeting at 5pm
+[SENDER] Отправлено: Don't forget the report
+[LOGGER] Очередь содержит сообщения
+[SENDER] Отправлено: Meeting at 5pm
+[RECEIVER] Получено: Don't forget the report
+[LOGGER] Очередь содержит сообщения
+[SENDER] Отправлено: How are you?
+[RECEIVER] Получено: Meeting at 5pm
+=== РАБОТА ЗАВЕРШЕНА ===
